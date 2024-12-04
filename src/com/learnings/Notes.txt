@@ -1,0 +1,11 @@
+Reference to single method.
+Symbol of method reference -> ::
+Interface can be static also.
+
+predefined functional interfaces after jdk 1.7-
+predicate
+supplier
+consumer
+biconsumer
+
+all four comes from java util function package.
